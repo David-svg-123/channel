@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": "vtv1",
+            "name": "VTV1",
+            "url": "udp://225.1.2.249:30120",
+            "drm": "0"
+        },
+        {
+            "id": "vtv2",
+            "name": "VTV2",
+            "url": "udp://225.1.2.13:30120",
+            "drm": "0"
+        },
+        {
+            "id": "vtv3",
+            "name": "VTV3",
+            "url": "udp://225.1.2.247:30120",
+            "drm": "0"
+        },
+        {
+            "id": "vtv4",
+            "name": "VTV4",
+            "url": "udp://225.1.2.20:30120",
+            "drm": "0"
+        },
+        {
+            "id": "vtv5",
+            "name": "VTV5",
+            "url": "udp://225.1.1.131:30120",
+            "drm": "0"
+        },
+		{
+            "id": "vtv1-http",
+            "name": "VTV1 HLS",
+            "url": "https://vod09-g12.tv360.vn:18443/154.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RZCDY44D4PnrKnMPm8FZf/E9BLruN0QKxngQUEpFa74Ch9Yg0fb1zsvIENtZnPOStq3WXNuY4XyBAsfEspIVg8tkpST6C4kQNZU6JvuWC8Gz4sxYRG5giMfMLxb1QbKnJUejYYc2YzGsNFez5ULpDaWoFb1tchfnOzM/patAy2dA==&uid=169071217&SessionID=09e29354-2112-4caf-87c7-c3fd2d420260&StreamID=ec263744-9b14-417e-bf64-45adecadbcb1&MinBw=0&MaxBw=20000000",
+            "drm": "0"
+		},
+        {
+            "id": "vtv2-http",
+            "name": "VTV2",
+            "url": "https://live-zlr1.tv360.vn/manifest/vtv2/master.m3u8?timestamp=1718351613&token=21dcc0a15ddce006a0a59e1577a000f9&manifestfilter=video_bitrate:1-5767168&uid=169071217",
+            "drm": "0"
+        },
+        {
+            "id": "vtv3-http",
+            "name": "VTV3 HLS",
+            "url": "https://live-ali2.tv360.vn/manifest/VTV3/master.m3u8?timestamp=1718351634&token=a359fa3186101dedc297bb8c0223a89a&manifestfilter=video_bitrate:1-5767168&uid=169071217",
+            "drm": "0"
+        },
+        {
+            "id": "vtv4-http",
+            "name": "VTV4 HLS",
+            "url": "https://es3-p1-netcdn.tv360.vn/netcdn-live/193/output/index.m3u8?timestamp=1718351658&token=b54b21a0773e61b22705d738c91ebfa2&uid=169071217",
+            "drm": "0"
+        },
+        {
+            "id": "vtv5-http",
+            "name": "VTV5 HLS",
+            "url": "https://vod-h11-hlc.tv360.vn:18443/308.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QxjVKOGp6MLJ3Swir6aLOhXVGXpXVFQIq2SILqBMPEjc4m5GsJkzrlliOJQ5VyoGFzQEORqXjOsPwhYQ9Fr4c7KWrdzTMNv1tgAxk9a2sf22fOClr60HJVd2j0fgiVRb3O1V2mHVvoFr1V2pabvzk6g7m1Q/HFyVOLIoVnrNqF6Q==&uid=169071217&SessionID=b084d95b-dd99-46c0-98f9-84113b806914&StreamID=5c67e34c-c97d-4d8c-b7f0-abefcd3236bd&MinBw=0&MaxBw=20000000",
+            "drm": "0"
+        },
+        {
+            "id": "vtv-cantho-http",
+            "name": "VTV Cần Thơ HLS",
+            "url": "https://live-zlr1.tv360.vn/manifest/VTV6_HD/master.m3u8?timestamp=1718351685&token=fb89f043ef7620cb96ed16c9b3a6d84d&manifestfilter=video_bitrate:1-5767168&uid=169071217",
+            "drm": "0"
+        }
+    ]
+}
